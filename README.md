@@ -2,7 +2,7 @@
 
 ## Read the available resources
 
-- [Slides are available here](https://docs.google.com/presentation/d/1WVhcLP90pQCgWkb8LSNfwJOr1UgIsnQ6UP41Lyg_9Z8/edit?usp=sharing)
+- [Slides are available here](https://docs.google.com/presentation/d/139HqheGAtRGIiGj-YM0KXfKoPjY2OXbpJ-LcPvlhfsg/edit?usp=sharing)
 - [REST Pattern](./rest.png)
 - [Git Workflow](./git_workflow.md)
 - [Teamwork](./teamwork.md)
@@ -13,7 +13,7 @@
 Lecture and slides covered:
 
 - Pick a project
-- [Midterm Projects](https://web.compass.lighthouselabs.ca/projects/w4-midterm-proj)
+- [Midterm Projects](https://flex-web.compass.lighthouselabs.ca/projects/midterm-proj)
 
 - Users Stories
 - Wireframes
@@ -21,7 +21,6 @@ Lecture and slides covered:
 - Creating routes
 - Dividing Tasks
 - [Communication and teamwork](./teamwork.md)
-- [Project Setup](https://web.compass.lighthouselabs.ca/activities/353)
+- [Project Setup](https://flex-web.compass.lighthouselabs.ca/workbooks/flex-m06w14/activities/1282?journey_step=52&workbook=25)
 - Database Setup
 - [Git Workflow](./git_workflow.md)
-  - [Branching](./git.png)
